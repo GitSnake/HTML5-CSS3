@@ -1,4 +1,4 @@
-#parent{background: steelblue;}
+#parent{background: steelblue; display:flex; height:100px; flex-direction: row;}
 .child{width:100px}
 .child1{background: skyblue;}
 .child2{background: powderblue;}
