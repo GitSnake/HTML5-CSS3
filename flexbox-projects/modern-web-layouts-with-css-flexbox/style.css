@@ -1,4 +1,4 @@
-#parent{background: steelblue; display:flex; height:100px; flex- direction: row;}
+#parent{background: steelblue; display:flex; height:100px; flex- direction: row; width:600px;}
 
 .child{width:100px}
 
