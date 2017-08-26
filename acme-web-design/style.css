@@ -69,7 +69,19 @@ header a: hover{
 #showcase p{
 	font-size: 20px;
 }
+/* Newsletter */
 
+#newsletter{
+	padding: 20px;
+	color: #fff;
+	background: #35424a;
+}
+#newsletter h1{
+	float: left;
+}
+#newsletter form{
+	float: right;
+}
 
 
 
