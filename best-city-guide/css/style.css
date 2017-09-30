@@ -25,12 +25,18 @@ a {
 
 .main-header {
 	background: #3acec2;
+	padding: 1em 0;
 }
 
 .main-footer {
 	padding: 2em 0;
 	background: #d9e4ea;
 }
+
+.name {
+	margin: 0;
+}
+
 
 /* ---- Page Elements ---- */
 
